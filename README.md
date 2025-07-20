@@ -1,5 +1,8 @@
 # Cybersecurity Incident Response Chatbot
 
+<img width="630" height="630" alt="image" src="https://github.com/user-attachments/assets/c1db1f68-029e-4d56-9c8e-5cb19bd17b5d" />
+
+
 ## Overview
 
 - Less than 30% of orgs have cyber incident response plans. We want to fill this gap by an AI Demo solution.
@@ -33,13 +36,13 @@
 
 ### Model General Config:
 
--   Model: “llama-3.3-70b-versatile”
+-   Model: `llama-3.3-70b-versatile`
 -   API URL: https://api.groq.com/openai/v1/chat/completions
 -   Randomness (Temperature): 0.2
 -   Timeout: 30 Sec.
 -   No. of context examples: 5
 
-The Chatbot Demo:
+## Chatbot Demo:
 
 <img width="1856" height="889" alt="image" src="https://github.com/user-attachments/assets/f842ca5f-ba35-4f93-a189-8af029e20b68" />
 
@@ -48,16 +51,39 @@ The Chatbot Demo:
 <img width="1990" height="910" alt="image" src="https://github.com/user-attachments/assets/2503d54b-aee9-42e4-9db2-30968bf7c0c6" />
 
 
-
  ## Competitive Edge:
 
  <img width="1030" height="931" alt="image" src="https://github.com/user-attachments/assets/9916f9e1-8c16-4196-b48d-9264876cccd5" />
+
+- Native in software. No extra tools
+- Always aligned with the latest NIST & policies
+- Generates playbooks in minutes vs. days
+- Trusted, Standards‑Backed Readiness
+- Automates manual playbook creation
+- Minimizes human error & gaps
+- Real‑time remediation/plan activation
+- Continuous expert feedback loop
+
 
  ## Success Measuring:
 
 <img width="1697" height="668" alt="image" src="https://github.com/user-attachments/assets/0d738dc4-4a28-4b88-b820-4d524626c45f" />
 
  
+- Business KPI: Demo to 2+ existing customers and secure upsell agreements by Week 14.
+- Accuracy KPI: ≥ 90% of generated playbook steps validated as “accurate & actionable” by cyber‑response professionals.
+- Performance KPI:
+        	- Latency: Average playbook generation time < 5 minutes.
+        	- Throughput: Ability to handle > 50 concurrent playbook requests.
+- Adoption KPI: ≥ 80% of targeted customers use the auto‑gen feature in their next incident simulation.
+
+- Can AWS CloudWatch to track latency, throughput, and error rates.
+
+
+**Thanks For Your Attention!**
+
+<img width="607" height="816" alt="image" src="https://github.com/user-attachments/assets/71774b38-6d18-45ce-af79-db081e7e69a5" />
+
 
 
 
