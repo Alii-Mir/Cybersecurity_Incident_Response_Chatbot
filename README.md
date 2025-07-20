@@ -1,4 +1,4 @@
-<img width="618" height="163" alt="image" src="https://github.com/user-attachments/assets/450ead9b-26c3-4d24-984d-8311f4c76aa6" /># Cybersecurity Incident Response Chatbot
+# Cybersecurity Incident Response Chatbot
 
 ## Overview
 
@@ -36,6 +36,10 @@
 -   Randomness (Temperature): 0.2
 -   Timeout: 30 Sec.
 -   No. of context examples: 5
+
+The Chatbot Demo:
+
+<img width="1856" height="889" alt="image" src="https://github.com/user-attachments/assets/f842ca5f-ba35-4f93-a189-8af029e20b68" />
 
  
 
