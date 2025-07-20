@@ -8,22 +8,24 @@
 
 ## Public Cybersecurity Playbook Resources/Standards
 
-- MITRE ATT&CK: attackers tactics techniques
+<img width="739" height="387" alt="image" src="https://github.com/user-attachments/assets/d1271270-f422-4f85-a3b1-64b36b36d141" />
 
-- NIST SP 800‑61 Rev 2/3: Incident Response Guide: 6 IR lifecycle phases (Preparation → Lessons Learned)
 
-- CISA IR Resources: US Gov advisories for incident scenarios and response playbooks
+- **MITRE ATT&CK**: attackers tactics techniques
 
-- UK NCSC Guidance: UK step‑by‑step incident management best practices
+- **NIST SP 800‑61 Rev 2/3**: Incident Response Guide: 6 IR lifecycle phases (Preparation → Lessons Learned)
 
-- Industry Compliance (SOC 2, ISO 27001, NIST CSF): Frameworks ShadowHQ aligns with to prove security & process rigor
+- **CISA IR Resources**: US Gov advisories for incident scenarios and response playbooks
+
+- **UK NCSC Guidance**: UK step‑by‑step incident management best practices
+
+- **Industry Compliance (SOC 2, ISO 27001, NIST CSF)**: Frameworks ShadowHQ aligns with to prove security & process rigor
 
 ## Data
 
 * Reference: https://huggingface.co/datasets/agamage/incident-response-playbook-samples
 
 <img width="1664" height="846" alt="image" src="https://github.com/user-attachments/assets/7e1c294e-3471-4b92-a775-5d7122678229" />
-
 
 - Curated Data:
 
@@ -40,6 +42,20 @@
 The Chatbot Demo:
 
 <img width="1856" height="889" alt="image" src="https://github.com/user-attachments/assets/f842ca5f-ba35-4f93-a189-8af029e20b68" />
+
+## Tentative Pipeline:
+
+<img width="1990" height="910" alt="image" src="https://github.com/user-attachments/assets/2503d54b-aee9-42e4-9db2-30968bf7c0c6" />
+
+
+
+ ## Competitive Edge:
+
+ <img width="1030" height="931" alt="image" src="https://github.com/user-attachments/assets/9916f9e1-8c16-4196-b48d-9264876cccd5" />
+
+ ## Success Measuring:
+
+<img width="1697" height="668" alt="image" src="https://github.com/user-attachments/assets/0d738dc4-4a28-4b88-b820-4d524626c45f" />
 
  
 
