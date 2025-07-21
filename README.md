@@ -1,6 +1,6 @@
 # Cybersecurity Incident Response Chatbot
 
-<img width="630" height="630" alt="image" src="https://github.com/user-attachments/assets/c1db1f68-029e-4d56-9c8e-5cb19bd17b5d" />
+<img width="315" height="315" alt="image" src="https://github.com/user-attachments/assets/c1db1f68-029e-4d56-9c8e-5cb19bd17b5d" />
 
 
 ## Overview
@@ -53,7 +53,7 @@
 
  ## Competitive Edge:
 
- <img width="1030" height="931" alt="image" src="https://github.com/user-attachments/assets/9916f9e1-8c16-4196-b48d-9264876cccd5" />
+ <img width="772.5" height="698.25" alt="image" src="https://github.com/user-attachments/assets/9916f9e1-8c16-4196-b48d-9264876cccd5" />
 
 - Native in software. No extra tools
 - Always aligned with the latest NIST & policies
@@ -80,9 +80,9 @@
 - Can AWS CloudWatch to track latency, throughput, and error rates.
 
 
-**Thanks For Your Attention!**
+## **Thanks For Your Attention!**
 
-<img width="607" height="816" alt="image" src="https://github.com/user-attachments/assets/71774b38-6d18-45ce-af79-db081e7e69a5" />
+<img width="303.5" height="408" alt="image" src="https://github.com/user-attachments/assets/71774b38-6d18-45ce-af79-db081e7e69a5" />
 
 
 
