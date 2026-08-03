@@ -82,7 +82,7 @@
 
 ## **Thanks For Your Attention!**
 
-<img width="303.5" height="408" alt="image" src="https://github.com/user-attachments/assets/71774b38-6d18-45ce-af79-db081e7e69a5" />
+<img width="151.75" height="204" alt="image" src="https://github.com/user-attachments/assets/71774b38-6d18-45ce-af79-db081e7e69a5" />
 
 
 
