@@ -1,4 +1,4 @@
-# Cybersecurity Incident Response Chatbot
+# Cybersecurity Incident Response Chatbot - Example
 
 <img width="315" height="315" alt="image" src="https://github.com/user-attachments/assets/c1db1f68-029e-4d56-9c8e-5cb19bd17b5d" />
 
